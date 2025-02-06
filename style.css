@@ -196,7 +196,7 @@ button {
 }
      */
      .fas  {
-        transition: background-color 0.2s, transform 0.2s; /* Add transform transition for smooth scaling effect */
+        transition: background-color 0.3s, transform 0.2s; /* Add transform transition for smooth scaling effect */
     }
     
     .fas.fa-phone:hover, .fas.fa-video:hover, .fas.fa-microphone:hover, .emoji-btn:hover {
@@ -205,7 +205,7 @@ button {
     }
 
     .icons span {
-        transition: background-color 0.2s, transform 0.2s; /* Add transition for background and scaling */
+        transition: background-color 0.3s, transform 0.2s; /* Add transition for background and scaling */
     }
     
     .icons span:hover {
